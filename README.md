@@ -1,6 +1,6 @@
 # 🤖 AI Chat Agent – Built with n8n + Gemini
 
-A simple, no-code AI chatbot powered by **Google's Gemini Pro** and built using [n8n](https://n8n.io). It remembers your previous messages (thanks to built-in memory) and responds intelligently like a real conversation.
+A simple, no-code AI chatbot powered by **Google's Gemini Pro** and built using [n8n](https://n8n.io). It remembers your previous messages (built-in memory) and responds intelligently like a real conversation.
 
 ---
 
