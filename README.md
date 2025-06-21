@@ -1,20 +1,20 @@
-# 🤖 AI Chat Agent using n8n + Gemini
+# 🤖 AI Chat Agent – Built with n8n + Gemini
 
-This project demonstrates a lightweight AI chatbot agent created in [n8n](https://n8n.io), powered by **Google's Gemini Pro** model and enhanced with a simple memory system for contextual conversations.
+A simple, no-code AI chatbot powered by **Google's Gemini Pro** and built using [n8n](https://n8n.io). It remembers your previous messages (thanks to built-in memory) and responds intelligently like a real conversation.
+
+---
+
+![🧠 AI Agent Workflow](docs/Workflow.png)
 
 ---
 
-![AI Agent Workflow](docs/Workflow.png)
+## 🚀 What It Can Do
 
-
-
-
-## 🚀 Features
-
-- 🔁 Triggered by chat message
-- 🤖 Uses Gemini Pro for intelligent responses
-- 🧠 Remembers previous messages using `Simple Memory`
-- 🧩 Fully visual, no-code setup using n8n's AI Agent node
-- 📦 Easily deployable and customizable
+- 💬 Listens to chat messages
+- 🤖 Replies using Gemini Pro
+- 🧠 Remembers previous interactions (Simple Memory)
+- 🔧 Fully no-code – built entirely in n8n
+- 📦 Easy to clone, run, and customize
 
 ---
+
