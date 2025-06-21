@@ -4,6 +4,11 @@ This project demonstrates a lightweight AI chatbot agent created in [n8n](https:
 
 ---
 
+![AI Agent Workflow](docs/Workflow.png)
+
+
+
+
 ## 🚀 Features
 
 - 🔁 Triggered by chat message
